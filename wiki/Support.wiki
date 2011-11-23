@@ -18,26 +18,21 @@
   # Click Install
   # Let download
   # Confirm Install
-  # (Options page appears)
-  # Select desired options (changes saved automatically)
-  # *Refresh Google Calendar tab*
+  # (Minimalist icon appears in toolbar)
 
 *Chrome Portable User?*
 
-  # Go to [http://www.anselsantosa.com/sites/MinimalistGoogleCalendar/]
-  # Download "Minimalist-Google-Calendar.zip"
+  # Go to [https://github.com/anstosa/Minimalist-Everything/downloads]
+  # Click "Download as zip"
   # Extract where you can find it
-  # (Wrench) > Tools > Extensions > Developer Mode > Load Unpacked Extension
-  # (Options page appears)
-  # Select desired options (changes saved automatically)
-  # *Refresh Google Calendar tab*
+  # Tools > Extensions > Developer Mode > Load Unpacked Extension
 
-=== Changing Options ===
-
-  # Click the options icon in the Gmail URL bar
-    * OR (Wrench) > Tools > Extensions > Minimalist Google Calendar > Options
-  # Select desired options (changes saved automatically)
-  # *Refresh Google Calendar tab*
+=== Selecting options ===
+  # Click Minimalist icon and click Dashboard
+  # Enable one or more modules by clicking "Enable"
+  # Click "Options" to change that module's options (Core modules have all options disabled by default)
+  # Browse the tabs and select the options you want
+  # Click "Save Changes"
 
 === Bugs? ===
   # Check the Issues Tracker (link above)
@@ -45,10 +40,9 @@
   # If it's not a known issue, click "New Issue" to let me know what's going on.
 
 === Ideas? ===
-
   # Check the Issues Tracker (It's for feature requests too)
   # If it's a previously requested feature, star it so that I know you're waiting for it too and to be notified of progress
-  # Otherwise, click "New Issue" and tell me about your idea. (delete the default text and make sure to label it as "Type-Enhancement")
+  # Otherwise, click "New Issue" and tell me about your idea.
 
 === Immediate question? ===
 
